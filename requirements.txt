@@ -1,7 +1,8 @@
-unstructured
-tiktoken
+langchain
+langchain-google-genai
+numpy
+pandas
 pinecone-client
 pypdf
-langchain
-pandas 
-numpy
+tiktoken
+unstructured
