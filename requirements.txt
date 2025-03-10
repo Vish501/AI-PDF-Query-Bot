@@ -1,8 +1,8 @@
+cassio
+datasets
 langchain
+langchain-community
 langchain-google-genai
-numpy
-pandas
-pinecone-client
-pypdf
+load_dotenv
+PyPDF2
 tiktoken
-unstructured
